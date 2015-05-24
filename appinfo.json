@@ -1,5 +1,9 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "COUNTRY": 0,
+        "TEMPERATURE": 1,
+        "CONDITIONS": 2
+    },
     "capabilities": [
         "location"
     ],
@@ -16,6 +20,7 @@
         "basalt"
     ],
     "uuid": "491c2ad9-4233-4c05-9c3d-9d7f6455d157",
+    "versionCode": "1",
     "versionLabel": "1.0",
     "watchapp": {
         "watchface": true
